@@ -10,3 +10,5 @@ secret: mysecret123
 
 # the file path pointing to your data model
 datamodel: datamodel.graphql
+
+cluster: public-equinoxarrow-780/prisma-us1
